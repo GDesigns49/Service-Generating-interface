@@ -1,2 +1,2 @@
 # Personal-Projects
-This Repo contain projects done with CSS, HTML and JavaScript.
+This Repo contains an interface designed with CSS, HTML and JavaScript to display the list of services offered by a tech hub..
